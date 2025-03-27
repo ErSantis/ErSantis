@@ -27,7 +27,7 @@
 
 ## 💡 Let's Talk About  
 💬 **Java, Python, TypeScript, AI, Cloud Computing, and Full-Stack Development**.  
-📩 Reach me at **ersantis@uninorte.edu.co**  
+📩 Reach me at **elkinsantis@gmail.com**  
 
 ---
 
