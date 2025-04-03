@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://github.com/ersantis)
+[![MasterHead](https://github.com/user-attachments/assets/1df53040-5c95-443b-b37c-5dcc16baf868)](https://github.com/ersantis)
 
 <h1 align="center">Hi 👋, I'm Elkin Santis</h1>
 <h3 align="center">Software Engineer | AI & Web Developer | Passionate about Building Tech Solutions</h3>
